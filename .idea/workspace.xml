@@ -5,64 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="597e5aa1-fa61-4ca9-a1f1-e53185686614" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listeners1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/failedtests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listenersretry.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parallel-testing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runclasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rungroups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runmethods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/mysmoketestdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/LoginPageNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/OpenSourcePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/XYZBankCustomerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/XYZBankHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/XYZBankManagerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day16_Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day16_DependsOnMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day16_SoftAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day17_FirstConfigTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day17_FirstDriverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day17_OpenSourceLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day19_NegativeLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/XYZBankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/dataprovider/Day21_DataProvider1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/dataprovider/Day21_DataProvider2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/dataprovider/Day21_DataProvider3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/excelautomation/Day20_ExcelLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/listeners/ListenersTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/listeners/ListenersTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/listeners/ListenersTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/listeners/ListenersTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/listeners/ListenersTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/paralleltesting/Day22_ManagerLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/paralleltesting/Day22_SearchItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/paralleltesting/Day22_TechproEducation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketest/logintests/Day18_PositiveLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketest/logintests/Day19_NegativeLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketest/reservationtests/Day19_ReservationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/JSUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/Listeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ListenersRetry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ListenersRetryAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ReusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/NegativeLoginScreenshot20230114104535.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/NegativeLoginScreenshot20230116094237.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,11 +130,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG./Users/emelsahin/Desktop/testNGproject/failedtests.xml" />
+      <item itemvalue="TestNG./Users/emelsahin/Desktop/testNGproject/Listeners1.xml" />
+      <item itemvalue="TestNG./Users/emelsahin/Desktop/testNGproject/testng.xml" />
       <item itemvalue="TestNG.ListenersTest4" />
       <item itemvalue="TestNG.ListenersTest5.test1" />
-      <item itemvalue="TestNG./Users/emelsahin/Desktop/testNGproject/Listeners1.xml" />
-      <item itemvalue="TestNG./Users/emelsahin/Desktop/testNGproject/failedtests.xml" />
-      <item itemvalue="TestNG./Users/emelsahin/Desktop/testNGproject/testng.xml" />
     </list>
     <recent_temporary>
       <list>
