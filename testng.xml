@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/emelsahin/Desktop/testNGproject/src/test/java/techproed/tests/smoketest">
+        <classes>
+            <class name="techproed.tests.smoketest.logintests.Day18_PositiveLoginTest">
+                <methods>
+                    <include name="US100201_Admin_Login"/>
+                </methods>
+            </class>
+            <class name="techproed.tests.smoketest.logintests.Day19_NegativeLoginTest">
+                <methods>
+                    <include name="US100208_Negative_Login"/>
+                    <include name="invalidCredsTest"/>
+                </methods>
+            </class>
+            <class name="techproed.tests.smoketest.reservationtests.Day19_ReservationTest">
+                <methods>
+                    <include name="reservationTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

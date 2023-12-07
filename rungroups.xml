@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Blue Rental Car">
+    <test name="Minor Regression Test Group">
+        <groups>
+            <run>
+                <!--            GROUP NAME = minor-regression-group
+                                This xml file executes all @Test methods which has minor-regression-group
+                                from ALL package-->
+                <include name="minor-regression-group"  />
+            </run>
+        </groups>
+        <packages>
+            <!--        .* ALL PACKAGES-->
+            <package name="techproed.*"></package>
+        </packages>
+    </test>
+</suite>
